@@ -1,5 +1,4 @@
-Mini project for react-redux study purposes
-Also testing out an idea for a flash card app
+Mini project for react-redux study purposes. Also testing out an idea for a flash card app.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
